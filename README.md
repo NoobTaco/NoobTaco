@@ -42,17 +42,13 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
+### Recent GitHub Activity
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### GitHub Stats
 
 [![NoobTaco's github stats](https://github-readme-stats.vercel.app/api?username=noobtaco&hide_border=true)](https://github.com/noobtaco/github-readme-stats)
 
