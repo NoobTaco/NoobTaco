@@ -54,9 +54,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![NoobTaco's github stats](https://github-readme-stats.vercel.app/api?username=noobtaco)](https://github.com/noobtaco/github-readme-stats)
-
-  <img align="left" alt="NoobTaco's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+[![NoobTaco's github stats](https://github-readme-stats.vercel.app/api?username=noobtaco&hide_border=true)](https://github.com/noobtaco/github-readme-stats)
 
 </details>
 
