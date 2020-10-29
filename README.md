@@ -27,7 +27,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
+- [100 Days of Landscapes - Day 2](https://www.youtube.com/watch?v=r-sYHUfVvFM)
+- [100 Days of Landscapes - Day 001](https://www.youtube.com/watch?v=uV18S1XlBGY)
+- [TacoCraft - Here Fishy, Fishy, Mending! - #Minecraft 1.12 SMP - #8](https://www.youtube.com/watch?v=EmD4mtMnAbg)
+- [TacoCraft - Your So Enchanting - #Minecraft 1.12 SMP - #7](https://www.youtube.com/watch?v=_BL09jJjMzE)
+- [TacoCraft - A Bridge to Skelly - #Minecraft 1.12 SMP - #6](https://www.youtube.com/watch?v=wIb7hjpjw2k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/noobtaco)
