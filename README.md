@@ -27,6 +27,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [100 Days of Landscapes - Day 2](https://www.youtube.com/watch?v=r-sYHUfVvFM)
 - [100 Days of Landscapes - Day 001](https://www.youtube.com/watch?v=uV18S1XlBGY)
 - [TacoCraft - Here Fishy, Fishy, Mending! - #Minecraft 1.12 SMP - #8](https://www.youtube.com/watch?v=EmD4mtMnAbg)
@@ -49,8 +50,6 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 ### GitHub Stats
 
