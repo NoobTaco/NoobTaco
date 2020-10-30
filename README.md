@@ -54,7 +54,7 @@
 
 ### GitHub Stats
 
-[![NoobTaco's github stats](https://https://github-readme-stats.noobtaco.vercel.app/api?username=noobtaco&hide_border=true)](https://github.com/noobtaco/github-readme-stats)
+[![NoobTaco's github stats](https://github-readme-stats.noobtaco.vercel.app/api?username=noobtaco&hide_border=true)](https://github.com/noobtaco/github-readme-stats)
 
 </details>
 
