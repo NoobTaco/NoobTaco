@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=mikenorton.dev/&style=for-the-badge&url=https%3A%2F%2Fmikenorton.dev)](https://mikenorton.dev/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mikenortondev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmikenortondev&screen_name=mikenortondev)
 
-## I'm a Father, Developer, Gamer and Teacher!!
+## I'm a Developer, Gamer and Teacher!!
 
 - 💾 I just launched released my first WoW Addon: [NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)!
 - 🌱 I’m currently learning everything 🤣
