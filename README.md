@@ -49,11 +49,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/NoobTaco/NoobTacoUI/issues/17) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
-2. ❗️ Opened issue [#16](https://github.com/NoobTaco/NoobTacoUI/issues/16) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
-3. ❗️ Opened issue [#15](https://github.com/NoobTaco/NoobTacoUI/issues/15) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
-4. 🗣 Commented on [#13](https://github.com/NoobTaco/NoobTacoUI/issues/13) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
-5. ❗️ Closed issue [#13](https://github.com/NoobTaco/NoobTacoUI/issues/13) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+1. ❗️ Closed issue [#17](https://github.com/NoobTaco/NoobTacoUI/issues/17) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+2. ❗️ Closed issue [#16](https://github.com/NoobTaco/NoobTacoUI/issues/16) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+3. 🎉 Merged PR [#18](https://github.com/NoobTaco/NoobTacoUI/pull/18) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+4. 💪 Opened PR [#18](https://github.com/NoobTaco/NoobTacoUI/pull/18) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+5. ❗️ Opened issue [#17](https://github.com/NoobTaco/NoobTacoUI/issues/17) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
