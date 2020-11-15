@@ -49,11 +49,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#423](https://github.com/WowUp/WowUp/pull/423) in [WowUp/WowUp](https://github.com/WowUp/WowUp)
-2. 🗣 Commented on [#414](https://github.com/WowUp/WowUp/issues/414) in [WowUp/WowUp](https://github.com/WowUp/WowUp)
+1. 🗣 Commented on [#414](https://github.com/WowUp/WowUp/issues/414) in [WowUp/WowUp](https://github.com/WowUp/WowUp)
+2. 💪 Opened PR [#423](https://github.com/WowUp/WowUp/pull/423) in [WowUp/WowUp](https://github.com/WowUp/WowUp)
 3. 🗣 Commented on [#414](https://github.com/WowUp/WowUp/issues/414) in [WowUp/WowUp](https://github.com/WowUp/WowUp)
 4. 🗣 Commented on [#414](https://github.com/WowUp/WowUp/issues/414) in [WowUp/WowUp](https://github.com/WowUp/WowUp)
-5. 💪 Opened PR [#418](https://github.com/WowUp/WowUp/pull/418) in [WowUp/WowUp](https://github.com/WowUp/WowUp)
+5. 🗣 Commented on [#414](https://github.com/WowUp/WowUp/issues/414) in [WowUp/WowUp](https://github.com/WowUp/WowUp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
