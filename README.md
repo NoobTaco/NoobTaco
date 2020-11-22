@@ -49,11 +49,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/NoobTaco/NoobTacoUI/issues/15) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
-2. 🗣 Commented on [#15](https://github.com/NoobTaco/NoobTacoUI/issues/15) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
-3. 🗣 Commented on [#414](https://github.com/WowUp/WowUp/issues/414) in [WowUp/WowUp](https://github.com/WowUp/WowUp)
-4. 💪 Opened PR [#423](https://github.com/WowUp/WowUp/pull/423) in [WowUp/WowUp](https://github.com/WowUp/WowUp)
-5. 🗣 Commented on [#414](https://github.com/WowUp/WowUp/issues/414) in [WowUp/WowUp](https://github.com/WowUp/WowUp)
+1. ❗️ Opened issue [#19](https://github.com/NoobTaco/NoobTacoUI/issues/19) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+2. ❗️ Closed issue [#15](https://github.com/NoobTaco/NoobTacoUI/issues/15) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+3. 🗣 Commented on [#15](https://github.com/NoobTaco/NoobTacoUI/issues/15) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+4. 🗣 Commented on [#414](https://github.com/WowUp/WowUp/issues/414) in [WowUp/WowUp](https://github.com/WowUp/WowUp)
+5. 💪 Opened PR [#423](https://github.com/WowUp/WowUp/pull/423) in [WowUp/WowUp](https://github.com/WowUp/WowUp)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
