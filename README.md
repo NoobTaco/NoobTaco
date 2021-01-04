@@ -49,11 +49,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/ravenclawhunter/AspectOfTheHunter/issues/1) in [ravenclawhunter/AspectOfTheHunter](https://github.com/ravenclawhunter/AspectOfTheHunter)
-2. ❗️ Opened issue [#19](https://github.com/NoobTaco/NoobTacoUI/issues/19) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
-3. ❗️ Closed issue [#15](https://github.com/NoobTaco/NoobTacoUI/issues/15) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
-4. 🗣 Commented on [#15](https://github.com/NoobTaco/NoobTacoUI/issues/15) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
-5. 🗣 Commented on [#414](https://github.com/WowUp/WowUp/issues/414) in [WowUp/WowUp](https://github.com/WowUp/WowUp)
+1. 🗣 Commented on [#783](https://github.com/Hekili/hekili/issues/783) in [Hekili/hekili](https://github.com/Hekili/hekili)
+2. ❗️ Opened issue [#1](https://github.com/ravenclawhunter/AspectOfTheHunter/issues/1) in [ravenclawhunter/AspectOfTheHunter](https://github.com/ravenclawhunter/AspectOfTheHunter)
+3. ❗️ Opened issue [#19](https://github.com/NoobTaco/NoobTacoUI/issues/19) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+4. ❗️ Closed issue [#15](https://github.com/NoobTaco/NoobTacoUI/issues/15) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+5. 🗣 Commented on [#15](https://github.com/NoobTaco/NoobTacoUI/issues/15) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
