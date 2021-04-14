@@ -49,11 +49,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/NoobTaco/NoobTacoUI/issues/20) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
-2. 🗣 Commented on [#19](https://github.com/NoobTaco/NoobTacoUI/issues/19) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
-3. ❗️ Closed issue [#19](https://github.com/NoobTaco/NoobTacoUI/issues/19) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
-4. 🗣 Commented on [#63](https://github.com/lloesche/valheim-server-docker/issues/63) in [lloesche/valheim-server-docker](https://github.com/lloesche/valheim-server-docker)
-5. 🗣 Commented on [#783](https://github.com/Hekili/hekili/issues/783) in [Hekili/hekili](https://github.com/Hekili/hekili)
+1. 🗣 Commented on [#20](https://github.com/NoobTaco/NoobTacoUI/issues/20) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+2. ❗️ Closed issue [#20](https://github.com/NoobTaco/NoobTacoUI/issues/20) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+3. ❗️ Opened issue [#20](https://github.com/NoobTaco/NoobTacoUI/issues/20) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+4. 🗣 Commented on [#19](https://github.com/NoobTaco/NoobTacoUI/issues/19) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+5. ❗️ Closed issue [#19](https://github.com/NoobTaco/NoobTacoUI/issues/19) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
