@@ -49,11 +49,11 @@
 ### Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/NoobTaco/NoobTacoUI/issues/24) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
-2. ❗️ Opened issue [#23](https://github.com/NoobTaco/NoobTacoUI/issues/23) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
-3. ❗️ Opened issue [#22](https://github.com/NoobTaco/NoobTacoUI/issues/22) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
-4. ❗️ Opened issue [#21](https://github.com/NoobTaco/NoobTacoUI/issues/21) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
-5. 🗣 Commented on [#20](https://github.com/NoobTaco/NoobTacoUI/issues/20) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+1. ❗️ Closed issue [#22](https://github.com/NoobTaco/NoobTacoUI/issues/22) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+2. ❗️ Opened issue [#24](https://github.com/NoobTaco/NoobTacoUI/issues/24) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+3. ❗️ Opened issue [#23](https://github.com/NoobTaco/NoobTacoUI/issues/23) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+4. ❗️ Opened issue [#22](https://github.com/NoobTaco/NoobTacoUI/issues/22) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
+5. ❗️ Opened issue [#21](https://github.com/NoobTaco/NoobTacoUI/issues/21) in [NoobTaco/NoobTacoUI](https://github.com/NoobTaco/NoobTacoUI)
 <!--END_SECTION:activity-->
 
 ### GitHub Stats
