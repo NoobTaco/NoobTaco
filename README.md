@@ -27,11 +27,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [LIVE - New World War Time - Attacking First Light](https://www.youtube.com/watch?v=NL-wcFn6Crw)
 - [New World War Campaigne   Offense - Hy Brasil NA-East](https://www.youtube.com/watch?v=phZS1-H3a-4)
 - [LIVE - New World War in Brightwood](https://www.youtube.com/watch?v=-IMb6ZANH_s)
 - [100 Days of Landscapes - Day 2](https://www.youtube.com/watch?v=r-sYHUfVvFM)
 - [100 Days of Landscapes - Day 001](https://www.youtube.com/watch?v=uV18S1XlBGY)
-- [TacoCraft - Here Fishy, Fishy, Mending! - #Minecraft 1.12 SMP - #8](https://www.youtube.com/watch?v=EmD4mtMnAbg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/noobtaco)
